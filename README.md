@@ -18,7 +18,7 @@ This project is a content-based recommender system.
 
 ## Work flow diagram
 
-![Work flow Diagram](/workflow.jpg)
+![Work flow Diagram](/workflowDiagram.jpg)
 
 ## Flowchart
 
